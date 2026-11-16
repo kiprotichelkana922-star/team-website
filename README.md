@@ -1,6 +1,6 @@
 # Team Name: Lab 2 Website
 
-**Live site:** https://kiprotichelkana922-star.github.io/team-website/ 
+**Live site: https://kiprotichelkana922-star.github.io/team-website/ 
 
 ## Team
 KIPROTICH LANGAT ELKANA COM/3465/26 kiprotichelkana922-star<br/>
