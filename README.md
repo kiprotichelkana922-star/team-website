@@ -3,8 +3,10 @@
 **Live site:** https://kiprotichelkana922-star.github.io/team-website/ 
 
 ## Team
-KIPROTICH LANGAT ELKANA COM/3465/26 kiprotichelkana922-star
-LAZARO KIPLIMO  SAMBURMO COM/3483/26 
+KIPROTICH LANGAT ELKANA COM/3465/26 kiprotichelkana922-star<br/>
+LAZARO KIPLIMO  SAMBURMO COM/3483/26 <br/>
+lazarokiplimo2007-arch
+
 ## Who drove each part
 - Part 0, 2, 4: LAZARO KIPLIMO SAMBURMO
 - Part 1, 3: ELKANA KIPROTICH LANGAT
